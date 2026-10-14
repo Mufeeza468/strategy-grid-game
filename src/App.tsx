@@ -10,7 +10,7 @@ const App: React.FC = () => {
 
   return (
     <div className="App">
-      <h1>Connect Four</h1>
+      <h1>Strategy Grid Game</h1>
       <PlayerInfo currentPlayer={currentPlayer} />
       <Board board={board} dropChecker={dropChecker} />
       {winner && (

@@ -1,4 +1,4 @@
-# Connect Four
+# Strategy Grid Game
 A web implementation of the classic Connect Four game built with React and TypeScript using Vite for fast compilation and hot module replacement.
 
 Setup
